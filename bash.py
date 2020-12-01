@@ -81,7 +81,7 @@ def enkrip():
        print (eror + " File Not Found!")
 
 
-takok = raw_input(W + "Choose" + G + " > ")
+takok = raw_input(W + "Pasirinkite" + G + " > ")
 
 if takok == "1" or takok == "01":
    enkrip()
