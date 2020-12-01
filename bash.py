@@ -28,8 +28,8 @@ banner = """
      dZP        qKRb
     dZP          qKKb
    fZP            SMMb
-   HZM            MMMM    {}Coded by {}: {}Syhrül
-{}   FqM            MMMM    {}FB       {}: {}fb.com/sarul.arif.5
+   HZM            MMMM    {}Coded by {}: {}Rolka
+{}   FqM            MMMM
 {} __|'\ .        |\{}dS qML
 {} |    `.       | `' \{}Zq
 {}_)      \.{}___.{},|     .'
