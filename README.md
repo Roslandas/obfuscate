@@ -10,3 +10,9 @@ $ git clone https://github.com/Roslandas/obfuscate
 $ cd obfuscate
 $ python2 bash.py
 ```
+$ pkg install nodejs
+$ npm install -g bash-obfuscate
+$ git clone https://github.com/Roslandas/obfuscate
+$ cd obfuscate
+$ python2 bash.py
+```
