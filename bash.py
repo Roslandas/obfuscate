@@ -21,7 +21,7 @@ eror = R + '[' + W + '!' + R + ']'
 banner = """
 {}         _nnnn_{}        _________________
 {}        dGGGGMMb{}      |                 |
-{}       @p~qp~~qMb{}   ._| {}Bash Oubfuscate {}|
+{}       @p~qp~~qMb{}   ._| {}Bash Decoderis {}|
 {}       M{}({}@{})({}@{}) {}M|{}  /  |_________________|
 {}       @,{}----.{}JM|{}_/
 {}      JS^{}\__/{}  qKL
@@ -38,7 +38,7 @@ banner = """
 """.format(D,W,D,W,D,W,Y,W,D,W,D,W,D,W,D,W,D,Y,D,W,D,Y,D,G,W,G,D,G,W,G,Y,D,Y,D,Y,D,Y,D,Y)
 
 banner2 = """
-   {}[{}1{}]{} Encript      {}[{}2{}]{} Decrypt
+   {}[{}1{}]{} Uzrakinti    {}[{}2{}]{} Atrakinti
 """.format(G,W,G,W,G,W,G,W)
 
 print banner
