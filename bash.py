@@ -1,5 +1,7 @@
 # author : @Syhrularv_
 # -*- coding: utf-8 -*-
+clear
+clear
 
 import os
 import sys
@@ -17,8 +19,6 @@ C = '\033[1;36m'
 ask = G + '[' + W + '?' + G + '] '
 sukses = G + '[' + W + '√' + G + '] '
 eror = R + '[' + W + '!' + R + ']'
-clear
-clear
 
 banner = """
 {}         _nnnn_{}        _________________
