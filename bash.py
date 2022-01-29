@@ -1,7 +1,5 @@
 # author : @Syhrularv_
 # -*- coding: utf-8 -*-
-clear
-clear
 
 import os
 import sys
